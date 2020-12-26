@@ -3,7 +3,8 @@
 ### Bill
 - price
 - repayment_date
-- duration  
+- from_date
+- to_date
 ---
 
 ### Admin
@@ -29,7 +30,7 @@
 - bill
 
 ### PowerBill
-- contour_number
+- counter_number
 - type
 
 ### Phone
