@@ -2,8 +2,8 @@
 
 ### Bill
 - price
-- duration
-  
+- repayment_date
+- duration  
 ---
 
 ### Admin
